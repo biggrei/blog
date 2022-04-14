@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: ttl_256
 description: 'Заметки сетевика'
+remote_theme: mmistakes/minimal-mistakes
